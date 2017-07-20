@@ -3,8 +3,6 @@
 PLH_HOME=$HOME/Github/PLH
 TOK_HOME=$HOME/Github/ixa-pipe-tok
 POS_HOME=$HOME/Github/ixa-pipe-pos
-PARSE_HOME=$HOME/Github/ixa-pipe-parse
-NERC_HOME=$HOME/Github/ixa-pipe-nerc
 
 filename="$1"
 while read -r line
