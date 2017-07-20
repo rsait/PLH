@@ -1,1 +1,1 @@
-# PLH
+# Poet's Little Helper source code
