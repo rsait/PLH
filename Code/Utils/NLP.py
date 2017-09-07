@@ -10,7 +10,7 @@ Collection of Python functions used in the Bertsobot project
 from gensim import corpora, models, similarities, matutils
 import numpy as np
 import subprocess
-import Utils.General as General
+import General as General
 import Customize
 
 def loadPrecomputedData(name):

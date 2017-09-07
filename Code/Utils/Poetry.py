@@ -13,9 +13,8 @@ import itertools
 import re
 import subprocess
 import collections
-import Utils.General as General
-import Utils.NLP as NLP
-from bzrlib.rio import Stanza
+import General as General
+import NLP as NLP
 
 def rhymingSentences(sentence, filenameOrList):
     '''
